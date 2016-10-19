@@ -1,14 +1,30 @@
-# bookvuejs
-線上vuejs讀書會
+# 歡迎大家加入線上Vuejs讀書會
+
+## [讀書會注意事項](https://github.com/onlinereadbook/bookreactjs/tree/master/%E8%AE%80%E6%9B%B8%E6%9C%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)
+
+## [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookvuejs)
+
+## [其他線上讀書會](https://github.com/onlinereadbook/bookreactjs/tree/master/其他線上讀書會)
 
 
-[線上Vuejs讀書會社群](https://www.facebook.com/groups/616281401885574/)
+---
 
-[Vuejs台灣](https://www.facebook.com/groups/vuejs.tw/?fref=ts)
+## 常用工具
 
-[Vuejs相關資源綜合](https://github.com/vuejs/awesome-vue)
+- VueDeleveTool
 
-## Plugins 控件(類似JQuery-UI,Bootstrap)
+## 會友幫幫忙活動
+
+```
+遇到問題社團上無法解開時, 可聯絡版主招開幫幫忙活動
+
+苦主要先講解目前製作寫程式的過程, 讓大家進入狀況後一起攻略問題
+
+一方面讓會友知道業界的開發流程levelup, 另一方面也可以攻略問題
+```
+## Vuejs 相關
+
+### Plugins 控件(類似JQuery-UI,Bootstrap)
 
 |名稱|說明|
 |---|---|
@@ -17,7 +33,22 @@
 |IView|是一套基於 Vue.js 的開源UI組件庫，主要服務於PC界面的中後台產品。使用單文件的Vue組件化開發模式。基於 npm + webpack + babel 開發，支持 ES2015,高質量、功能豐富,友好的 API，自由靈活地使用空間 [官網](https://www.iviewui.com) / [Github](https://github.com/iview/iview) |
 
 
-## Plugins (類似Datepicket)
+### Plugins (類似Datepicket)
 |名稱|類型|說明|
 |---|---|---|
 |Vue Pagination 2|分頁|一個簡單、通用、非侵入、且針對 Vue.js 2.0 所寫的分頁元件，而樣式是基於 Bootstrap 。其原生支援 Vuex ，但也可以在非 Vuex 的環境中改用 Event Bus 。 [Github](https://github.com/matfish2/vue-pagination-2)|
+
+### Redux Saga 資源 :
+
+1. [官方英文文檔](https://vuejs.org/)
+
+2. [線上Vuejs讀書會社群](https://www.facebook.com/groups/616281401885574/)
+
+3. [Vuejs台灣](https://www.facebook.com/groups/vuejs.tw/?fref=ts)
+
+4. [Vuejs相關資源綜合](https://github.com/vuejs/awesome-vue)
+
+
+## 願望清單
+
+- 有想聽的主題一樣開Issues 會幫忙試試看去邀約
