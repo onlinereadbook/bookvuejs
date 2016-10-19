@@ -4,6 +4,8 @@
 
 [線上Vuejs讀書會社群](https://www.facebook.com/groups/616281401885574/)
 
+[Vuejs台灣](https://www.facebook.com/groups/vuejs.tw/?fref=ts)
+
 [Vuejs相關資源綜合](https://github.com/vuejs/awesome-vue)
 
 ## Plugins (類似JQuery-UI,Bootstrap, Datatimepick 這樣的東西)
