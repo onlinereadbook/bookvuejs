@@ -4,6 +4,9 @@
 
 ## [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookvuejs)
 
+[Vuediner #4 一頭栽入 Vue.js TDD 的世界 (威力加強版) by 大澤木小鐵](https://www.youtube.com/watch?v=yeVgDph6wMQ&feature=youtu.be)
+
+
 ## [其他線上讀書會](https://github.com/onlinereadbook/bookreactjs/tree/master/其他線上讀書會)
 
 
