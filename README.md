@@ -47,11 +47,13 @@
 
 1. [官方英文文檔](https://vuejs.org/)
 
-2. [線上Vuejs讀書會社群](https://www.facebook.com/groups/616281401885574/)
+2. [簡體中文文檔](http://vuefe.cn/)
 
-3. [Vuejs台灣](https://www.facebook.com/groups/vuejs.tw/?fref=ts)
+32. [線上Vuejs讀書會社群](https://www.facebook.com/groups/616281401885574/)
 
-4. [Vuejs相關資源綜合](https://github.com/vuejs/awesome-vue)
+4. [Vuejs台灣](https://www.facebook.com/groups/vuejs.tw/?fref=ts)
+
+5. [Vuejs相關資源綜合](https://github.com/vuejs/awesome-vue)
 
 
 ## 願望清單
