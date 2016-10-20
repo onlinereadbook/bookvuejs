@@ -44,7 +44,7 @@
 |Vue Pagination 2|分頁|一個簡單、通用、非侵入、且針對 Vue.js 2.0 所寫的分頁元件，而樣式是基於 Bootstrap 。其原生支援 Vuex ，但也可以在非 Vuex 的環境中改用 Event Bus 。 [Github](https://github.com/matfish2/vue-pagination-2)|
 |Vee-Validate|驗證|一個參考 Laravel 表單驗證語法而開發出來的表單驗證套件。它支援 Vue 1.0 及 Vue 2.0 [官網](http://vee-validate.logaretm.com/)
 |vue-router 2|路由|對於大多數單頁面應用，都推薦使用官方支持的 [中文檔](http://router.vuejs.org/zh-cn/index.html)|
-|vue-tables|列表|DataTables Vue 版本 [Github](https://github.com/matfish2/vue-tables)|
+|vue-tables 2|列表|DataTables Vue2 版本 [Github](https://github.com/matfish2/vue-tables-2)|
 
 
 ### Redux Saga 資源 :
