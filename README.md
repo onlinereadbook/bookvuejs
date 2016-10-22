@@ -36,6 +36,8 @@
 |IView|是一套基於 Vue.js 的開源UI組件庫，主要服務於PC界面的中後台產品。使用單文件的Vue組件化開發模式。基於 npm + webpack + babel 開發，支持 ES2015,高質量、功能豐富,友好的 API，自由靈活地使用空間 [官網](https://www.iviewui.com) / [Github](https://github.com/iview/iview) |
 |VueStrap|Bootstrap components built with Vue.js.No jQuery, bootstrap.js, or any 3rd party plugins required. [官網](http://yuche.github.io/vue-strap/) / [Github](https://github.com/yuche/vue-strap) |
 |Semantic-ui|development framework that helps create beautiful, responsive layouts using human-friendly HTML. [官網](http://semantic-ui.com/)|
+|Mint UI|基于 Vue.js 的移动端组件库 [官網](http://mint-ui.github.io/)|
+
 
 
 
@@ -46,8 +48,8 @@
 |Vue Pagination 2|分頁|一個簡單、通用、非侵入、且針對 Vue.js 2.0 所寫的分頁元件，而樣式是基於 Bootstrap 。其原生支援 Vuex ，但也可以在非 Vuex 的環境中改用 Event Bus 。 [Github](https://github.com/matfish2/vue-pagination-2)|
 |Vee-Validate|驗證|一個參考 Laravel 表單驗證語法而開發出來的表單驗證套件。它支援 Vue 1.0 及 Vue 2.0 [官網](http://vee-validate.logaretm.com/)
 |vue-router 2|路由|對於大多數單頁面應用，都推薦使用官方支持的 [中文檔](http://router.vuejs.org/zh-cn/index.html)|
-|vue-tables 2|列表|DataTables Vue2 版本 [Github](https://github.com/matfish2/vue-tables-2) (目前測試vue2有問題)|
-
+|vue-tables 2|表格|DataTables Vue2 版本 [Github](https://github.com/matfish2/vue-tables-2) (目前測試vue2有問題)|
+|ratiw/vue-table|表格|vuetable - data table simplify! [Github](https://github.com/ratiw/vue-table)|
 
 ### Redux Saga 資源 :
 
