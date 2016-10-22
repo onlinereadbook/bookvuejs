@@ -37,6 +37,7 @@
 |VueStrap|Bootstrap components built with Vue.js.No jQuery, bootstrap.js, or any 3rd party plugins required. [官網](http://yuche.github.io/vue-strap/) / [Github](https://github.com/yuche/vue-strap) |
 |Semantic-ui|development framework that helps create beautiful, responsive layouts using human-friendly HTML. [官網](http://semantic-ui.com/)|
 |Mint UI|基于 Vue.js 的移动端组件库 [官網](http://mint-ui.github.io/)|
+|Vue-UI|基于 Vue.js 的移动端组件库 [官網](http://vueui.github.io/)|
 
 
 
