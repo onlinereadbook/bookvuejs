@@ -2,7 +2,7 @@
 
 ## [讀書會注意事項](https://github.com/onlinereadbook/bookreactjs/tree/master/%E8%AE%80%E6%9B%B8%E6%9C%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)
 
-## [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookvuejs)
+## [讀書會過往影片及討論區](https://goo.gl/rjOPXt)
 
 [Vuediner #4 一頭栽入 Vue.js TDD 的世界 (威力加強版) by 大澤木小鐵](https://www.youtube.com/watch?v=yeVgDph6wMQ&feature=youtu.be)
 
