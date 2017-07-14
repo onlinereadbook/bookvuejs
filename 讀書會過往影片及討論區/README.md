@@ -6,3 +6,4 @@
 | ------ | ------ | :------: | :------: |
 | Andy Tsai | Vue Basic | [[影片](https://www.youtube.com/watch?v=R4sAebuAiZw&t=5s)] | [[傳送門](https://github.com/onlinereadbook/bookvuejs/issues/1)] |
 | Imagine | vue.js 實作 tree | [[影片](https://www.youtube.com/watch?v=maew-HTgAAM)] | [[傳送門](https://github.com/onlinereadbook/bookvuejs/issues/2)] |
+| knovour | nuxt 入門 | [[影片](https://www.youtube.com/watch?v=kBY6TwvpGl8)] | [[傳送門](https://github.com/onlinereadbook/bookvuejs/issues/3)] |
